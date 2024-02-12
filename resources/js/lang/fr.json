@@ -1,0 +1,29 @@
+[
+    {
+        "PrdReg":"ENREGISTREMENT DU PRODUIT",
+        "FirstName":"Prénom",
+        "LastName":"Nom de famille",
+        "Email":"Courriel",
+        "Phone":"Numéro de téléphone",
+        "Address1":"Adresse1",
+        "Address2":"Adresse2",
+        "City":"Ville",
+        "State":"État/Province",
+        "Zip":"Code ZIP/Code postal",
+        "Product":"Produit",
+        "PurchaseDate":"Date d'achat",
+        "Serial":"Numéro de série/Code",
+        "Proof":"Preuve d'achat",
+        "Description":"Description",
+        "Update":"J'aimerais recevoir des mises à jour et des informations particulières concernant mon produit enregistré",
+        "Subscribe":"J'aimerais m'abonner à votre bulletin d'information",
+        "Submit":"Soumettre",
+        "Note":"Enregistrez l'achat de votre casque Lazer ici et prolongez votre garantie de 12 à 24 mois ! Cochez la première case de sélection pour des mises à jours éventuelles et pour de l'information concernant votre produit",
+        "Smsg":"Votre produit a été enregistré avec succès",
+        "Emsg":"Désolé, il y a eu une erreur"
+
+    }
+
+
+
+]

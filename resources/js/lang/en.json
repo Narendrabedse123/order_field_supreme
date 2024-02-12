@@ -1,0 +1,29 @@
+[
+    {
+        "PrdReg":"PRODUCT REGISTRATION",
+        "FirstName":"First Name",
+        "LastName":"Last Name",
+        "Email":"Email",
+        "Phone":"Phone",
+        "Address1":"Address1",
+        "Address2":"Address2",
+        "City":"City",
+        "State":"State",
+        "Zip":"Zip",
+        "Product":"Product",
+        "PurchaseDate":"Purchase Date",
+        "Serial":"Serial No /  Code",
+        "Proof":"Proof Of Purchase",
+        "Description":"Description",
+        "Update":"I would like updates and information specific about my registered product",
+        "Subscribe":"I would like to subscribe to your newsletter",
+        "Submit":"Submit",
+        "Note":"Register your Lazer helmet purchase here and extend your warranty from 12 to 24 months! Select the first check box for future updates and information regarding your product.",
+        "Smsg":"You product registerd successfully.",
+        "emsg":"Sorry, there was an error ."
+
+    }
+
+
+
+]

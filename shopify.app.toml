@@ -1,0 +1,29 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "e841475e2960303a1fdb8c9e5dc0a341"
+name = "dev-local-nb-OFS"
+handle = "node_nb_orderlist"
+application_url = "https://cds-function-politicians-java.trycloudflare.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "arcadev6.myshopify.com"
+include_config_on_deploy = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+use_legacy_install_flow = true
+
+[auth]
+redirect_urls = [
+  "https://cds-function-politicians-java.trycloudflare.com/auth/callback",
+  "https://cds-function-politicians-java.trycloudflare.com/auth/shopify/callback",
+  "https://cds-function-politicians-java.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2023-04"
+
+[pos]
+embedded = false

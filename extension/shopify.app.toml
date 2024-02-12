@@ -1,0 +1,7 @@
+NAME = "Order Field supreme"
+SCOPES = "write_products,write_customers,write_draft_orders,read_themes"
+SHOPIFY_API_KEY = "e841475e2960303a1fdb8c9e5dc0a341"
+SHOPIFY_API_SECRET = "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"
+APP_URL = "https://03c6-103-185-160-62.ngrok-free.app/"
+HOST = "https://03c6-103-185-160-62.ngrok-free.app/"
+PORT = "8000"
